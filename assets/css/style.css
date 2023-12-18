@@ -39,14 +39,12 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {/* no markers for list*/
+.header nav ul li {/* no markers for list*/
     list-style-type: none;
-}
-
-.header nav ul li {/*Defines element appearance and behavior, adds 25px margin*/
     display: inline-block;
     margin-left: 25px;
 }
+
 
 a {
     color: #ffffff; /*font color white for list elements*/
