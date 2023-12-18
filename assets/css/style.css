@@ -1,11 +1,13 @@
-
+/*boz sizing includes the borde with and height, this is set to border box 
+which is the same for both, the margin is set to 0 and pading is set to 0 
+and creates the illution the the header and the figure are placed together*/
 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*sets the whole body to background color to 69dcd6 or white*/
 body {
     background-color: #d9dcd6;
 }
@@ -29,33 +31,37 @@ body {
     font-size: 48px;
     color: #b2b6af;
 }
-
-.header nav {/*adds 15 px spacing , a 20px margin location on page sans serif font 
-    and a 20px font size for header section*/
+/*adds 15 px spacing , a 20px margin location on page sans serif font and a 
+20px font size for header section. Added nav to ensure all elements in the 
+nav are the same*/
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    
 }
 
-.header nav ul li {/* no markers for list*/
+/* no markers for list but I am combining the ul and li display and margin 
+on this class*/
+.header nav ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
 
-
+/*font color white for list elements*/
 a {
-    color: #ffffff; /*font color white for list elements*/
+    color: #ffffff;
     text-decoration: none;
 }
-
+/*font size 16px for list elements*/
 p {
-    font-size: 16px;/*font size 16px for list elements*/
+    font-size: 16px;
 }
-
-.hero {/*sets background image dimensions, margin bottom, size and position*/
+/*sets background image dimensions, margin bottom, size and position*/
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -63,16 +69,18 @@ p {
     background-size: cover;
     background-position: center;
 }
-.content { /*sets width, height and position of the section, left margin of 20px*/
+/*sets width, height and position of the section, left margin of 20px*/
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/*this combines the class, and instead of having each individual item we have all three together*/
 
+/*this combines the class, and instead of having each individual item we 
+have all three together*/
 .search-engine-optimization, 
 .online-reputation-management, 
-.social-media-marketing {
+.social-media-marketing  {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -81,14 +89,16 @@ p {
     color: #ffffff;
 }
 
-/*this combines the class, and instead of having each individual item we have all three together*/
+/*this combines the class, and instead of having each individual item we 
+have all three together*/
 .social-media-marketing img, 
 .online-reputation-management img, 
 .search-engine-optimization img {
     max-height: 200px;
 }
 
-/*this combines the class, and instead of having each individual item we have all three together*/
+/*this combines the class, and instead of having each individual item we 
+have all three together*/
 .online-reputation-management h2, 
 .social-media-marketing h2, 
 .search-engine-optimization h2 {
@@ -106,8 +116,8 @@ p {
     margin-right: 25px;
 }
 
-/*sets section conten t area W 20% H 100%, margin 20px, spacing 20px, font size, and background color blue
-    for benefits*/
+/*sets section content area W 20% H 100%, margin 20px, spacing 20px, 
+font size, and background color blue for benefits*/
 .benefits {
    margin-right: 20px;
    padding: 20px;
@@ -119,7 +129,8 @@ p {
    background-color: #2589bd;
 }
 
-
+/*sets aside area W 20% H 100%, margin 20px, spacing 20px, font size, and background color blue
+    for benefits*/
 .benefits article {
     margin-bottom: 10px;
     text-align: center;
@@ -127,19 +138,19 @@ p {
     color: #ffffff;
 }
 
+/*sets the images on the right to be displayed as blovks with a margin of 10 ox adn auto centering the element, and a maximum with of 150px*/
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*sets the padding around to 30px, The font is sans and is set to be aligned in the ceter of the page*/
 .footer {
     padding: 30px;
-    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 { /*&copy creates the copy right symbol*/
+.footer h2 { /*&copy creates the copy right symbol set at 20px*/
     font-size: 20px;
 }
