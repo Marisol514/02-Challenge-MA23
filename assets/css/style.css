@@ -1,4 +1,4 @@
-/*boz sizing includes the borde with and height, this is set to border box 
+/*box-sizing includes the borde with and height, this is set to border box 
 which is the same for both, the margin is set to 0 and pading is set to 0 
 and creates the illution the the header and the figure are placed together*/
 
@@ -124,7 +124,7 @@ font size, and background color blue for benefits*/
    clear: both;
    float: right;
    width: 20%;
-   height: 00%;
+   height: 100%;
    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
    background-color: #2589bd;
 }
@@ -151,6 +151,7 @@ font size, and background color blue for benefits*/
     text-align: center;
 }
 
-.footer h2 { /*&copy creates the copy right symbol set at 20px*/
+.footer h4 { /*&copy creates the copy right symbol set at 20px removed text align center from
+    footer as it is already centered in the .footer element changes this to follow the header sequential order*/
     font-size: 20px;
 }
