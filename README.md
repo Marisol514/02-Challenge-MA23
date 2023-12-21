@@ -5,7 +5,10 @@ UCI-VIT-FSF-PT-12-2023-U-LOLC
 ## Description
 Begining with started code, the challange was to modify the code to improve whithout changing what it does. The challange is due on Thursday Dec 21, 2023. 
 
-The challange will also require that I ensure that all the links are functional, CSS selectors are consolidated. It will require me to add a unique name, and to meet the acceptance criteria.
+The challange will also require that I ensure that all the links are functional, CSS selectors are consolidated. It will require me to add a unique name, and to meet the acceptance criteria. 
+
+I will also be rewuired to deploy the application and repository. As well as include screen shots of the deployed application and it should resemble the mock up to 90%. 
+
 
 ## User Story
 ```
@@ -41,7 +44,7 @@ Deployed Application Link: https://marisol514.github.io/02-Challenge-MA23/
 URL GitHub Repository: https://github.com/Marisol514/02-Challenge-MA23
 
 
-## Acknowkedgements:
+## Acknowledgements:
 Worked with and referenced the work of classmates : Ryan Sarat, Daniel Merino, Jacob Rerraro, Amanda Vilwock, Sarah Davila and Tub Vaaj
 
 ## Resources: 
