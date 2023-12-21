@@ -3,9 +3,9 @@ UCI-VIT-FSF-PT-12-2023-U-LOLC
 ## 02-HTML-git-CSS - 02 Challenge
 
 ## Description
-Begining with started code, the challange was to modify the code to improve whithout changing what it does. The challange is due on Thursday Dec 21, 2023. 
+Begining with starter code, the challange was to modify the code to improve it whithout changing what it does. The challange is due on Thursday Dec 21, 2023. 
 
-The challange will also require that I ensure that all the links are functional, CSS selectors are consolidated. It will require me to add a unique name, and to meet the acceptance criteria. 
+The challange will also require that I ensure that all the links are functional and CSS selectors are consolidated and ensure that the html is following a semantic structure. It will also require me to add a unique name, and to meet the acceptance criteria. 
 
 I will also be rewuired to deploy the application and repository. As well as include screen shots of the deployed application and it should resemble the mock up to 90%. 
 
@@ -49,7 +49,7 @@ Worked with and referenced the work of classmates : Ryan Sarat, Daniel Merino, J
 
 ## Resources: 
 
-Sematich HTML Structure Information Links: 
+Semantic HTML Structure Information Links: 
 https://dev.to/5t3ph/semantic-html-structure-1adn#:~:text=In%20this%20post%2C%20we%20will,as%20we%20cover%20our%20examples. 
 
 https://www.simplilearn.com/tutorials/html-tutorial/html-semantics#:~:text=The%20HTML%20semantics%20refers%20to,and%20layout%20of%20web%20pages.
