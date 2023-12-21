@@ -3,7 +3,9 @@ UCI-VIT-FSF-PT-12-2023-U-LOLC
 ## 02-HTML-git-CSS - 02 Challenge
 
 ## Description
-Begining with started code, the challange was to modify the code to improve whithout changing what it does. 
+Begining with started code, the challange was to modify the code to improve whithout changing what it does. The challange is due on Thursday Dec 21, 2023. 
+
+The challange will also require that I ensure that all the links are functional, CSS selectors are consolidated. It will require me to add a unique name, and to meet the acceptance criteria.
 
 ## User Story
 ```
@@ -27,9 +29,20 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Review
-Deployed Application Link: 
-URL GitHub Repository: 
+## Screen Shots:
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+
+## Review Links: 
+
+Deployed Application Link: https://marisol514.github.io/02-Challenge-MA23/
+
+URL GitHub Repository: https://github.com/Marisol514/02-Challenge-MA23
+
+
+## Acknowkedgements:
+Worked with and referenced the work of classmates : Ryan Sarat, Daniel Merino, Jacob Rerraro, Amanda Vilwock, Sarah Davila and Tub Vaaj
 
 ## Resources: 
 
@@ -43,17 +56,21 @@ https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element#inline_text_semantics
 
 Accessible Alt Attribute Links:
- https://moz.com/learn/seo/alt-text#:~:text=Adding%20alternative%20text%20to%20images,the%20images%20on%20the%20page.
+https://moz.com/learn/seo/alt-text#:~:text=Adding%20alternative%20text%20to%20images,the%20images%20on%20the%20page.
 
- https://www.w3schools.com/tags/att_img_alt.asp
+https://www.w3schools.com/tags/att_img_alt.asp
 
 Sequential Order of Heading Attributes: 
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements  ** update the heading order.. 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements  
 
-Concise Sescriptive Title Information: 
+Concise Descriptive Title Information: 
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+Aside Tag: 
+
+https://stackoverflow.com/questions/21927767/how-do-i-correctly-place-an-aside-tag
 
 README:
 
